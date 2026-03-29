@@ -6,3 +6,5 @@
 - [B站码率](post/241104)
 - [NVIDIA 账户（中国）](post/241204)
 - [明末四大案](post/250723)
+- [python proxy](post/260328.md)
+- [python subprocess](post/260329.md)
