@@ -9,3 +9,6 @@
 - [python proxy](post/260328.md)
 - [python subprocess](post/260329.md)
 - [B站音视频流CDN](post/260502.md)
+- [磁盘写入缓存](post/260816a.md)
+- [缩略图预览注册表](post/260816b.md)
+- [mpv文件关联](post/260816c.md)
